@@ -1,0 +1,22 @@
+.header__link{
+ color: white;
+ display: flex;
+ text-decoration: none;
+ align-items: right;
+}
+
+.header--option{
+display: flex;
+flex-direction:column ;
+
+}
+.header--lineOne{
+font-size: 13px;
+
+}
+.header--lineTwo{
+font-size: 15px;
+
+ 
+
+}
